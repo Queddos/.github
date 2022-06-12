@@ -3,11 +3,9 @@
 
 ironmegadipshittingmuffin@github.com
 -------------------------
-OS: Gentoo x86_64
-Shell: zsh 5.8.1
-Location: /home/thamognya
+Shell: zsh 5.8.1 and Fish
+Location: /home/house
 Frameworks and Libraries: NextJs, ReactJS, Django
-Languages: C, C++, Rust, Python,
-Typescript, Javascript
+Languages: C, C++, Rust, Python, Typescript, Javascript
 Hobbies: Coding, & Manga Reading
 ```
