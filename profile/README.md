@@ -1,3 +1,3 @@
-# ironmegadipshittingmuffin
+# The Yeddos
 
-Idk something here man
+PocketMedi Repository: [https://github.com/TheYeddos/PocketMedi](https://github.com/TheYeddos/PocketMedi)
