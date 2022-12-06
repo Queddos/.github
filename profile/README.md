@@ -4,11 +4,11 @@ A Hackathon Group based in Thailand.
 
 ## Team
 
-### Thamognya Kodi
+### [@thamognya](https://github.com/thamognya)
 
-### Kaka Thanglerdsupman
+### [@KakaThanglerdsumpan](https://github.com/KakaThanglerdsumpan)
 
-### Chanon Fongsirin
+### [@fongsrisinc](https://github.com/fongsrisinc)
 
 ## Hackathons Taken
 
