@@ -22,6 +22,6 @@ A Hackathon Group based in Thailand.
 
 - Theme: Global Health
 - Project: A online chat bot to help with PTSD, Depression and other mental illnesses.
-- Repository (PocketMedi): [https://github.com/TheYeddos/PocketMedi](https://github.com/TheYeddos/PocketMedi)
+- Repository (PocketMedi): [PocketMedi Source Code](https://github.com/TheY3DD05/PocketMedi)
 
 ## Future Hackathons
