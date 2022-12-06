@@ -4,11 +4,12 @@ A Hackathon Group based in Thailand.
 
 ## Team
 
-### - [@thamognya](https://github.com/thamognya)
+| Members      | Github |
+| ----------- | ----------- |
+| Thamognya Kodi | [@thamognya](https://github.com/thamognya) |
+| Dhirath (Kaka) Thanglerdsumpan | [@KakaThanglerdsumpan](https://github.com/KakaThanglerdsumpan) |
+| Chan (Chanon) Fonsrisinc | [@fongsrisinc](https://github.com/fongsrisinc) |
 
-### - [@KakaThanglerdsumpan](https://github.com/KakaThanglerdsumpan)
-
-### - [@fongsrisinc](https://github.com/fongsrisinc)
 
 ## Hackathons Taken
 
