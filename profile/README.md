@@ -1,12 +1,11 @@
-# The Yeddos
+# TheY3DD05
 
-<h3><a href="https://api.pocketmedi.live">api.pocketmedi.live</a></h3>
+A Hackathon Group
 
-<details>
-<summary>Uber Global Hackathon</summary>
-<br>
+## Hackathons Taken
+
+- [x] Uber Global Hackathon | Results: Global Finalist (Top 30)
   
 - Theme: Global Health
+- Project: A online chat bot to help with PTSD, Depression and other mental illnesses.
 - Repository (PocketMedi): [https://github.com/TheYeddos/PocketMedi](https://github.com/TheYeddos/PocketMedi)
-  
-</details>
