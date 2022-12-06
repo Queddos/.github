@@ -14,9 +14,11 @@ A Hackathon Group based in Thailand.
 
 ### Uber Global Hackathon (done) 
 
-#### Results: Global Finalist (Top 30)
+#### Results: 
 
-#### Information
+- [x] Global Finalist (Top 30)
+
+#### Information:
 
 - Theme: Global Health
 - Project: A online chat bot to help with PTSD, Depression and other mental illnesses.
