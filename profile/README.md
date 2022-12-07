@@ -2,7 +2,7 @@
 
 # TheY3DD05
 
-### A Hackathon Group based in Thailand.
+### A Programming Group based in Thailand.
 </div>
 
 ## Team
