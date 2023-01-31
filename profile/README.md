@@ -16,7 +16,11 @@
 
 ## Hackathons Taken
 
-### Uber Global Hackathon (done) 
+### MIT Quantum Hackathon iQuHACK, Jan 2023
+
+- [x] Top 5 Team in the Microsoft Challenge
+
+### Uber Global Hackathon, Jul 2022
 
 #### Results: 
 
