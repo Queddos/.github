@@ -20,12 +20,13 @@
 
 #### Results: 
 
-- [x] Global Finalist (Top 30)
+- [x] Regional Winner (South, East, and Southeast Asia)
+- [x] Global Finalist (Top 30 out of 732 teams)
 
 #### Information:
 
 - Theme: Global Health
-- Project: A online chat bot to help with PTSD, Depression and other mental illnesses.
+- Project:  A mobile application with aonline chat bot to help with PTSD, Depression and other mental illnesses.
 - Repository (PocketMedi): [PocketMedi Source Code](https://github.com/TheY3DD05/PocketMedi)
 
 ## Future Hackathons
